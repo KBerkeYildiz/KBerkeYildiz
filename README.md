@@ -1,6 +1,6 @@
-### Hi there, I'm Berke 👋
+# Hi there, I'm Berke 👋 ###
 
-### <center>I'm a C#-Python developer in Turkey
+## I'm a C#-Python developer in Turkey
 
 <!--
 **KBerkeYildiz/KBerkeYildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
