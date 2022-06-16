@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berke Yıldız</h1>
+<h1 align="center">Hi 👋, I'm Berke YILDIZ</h1>
 <h3 align="center">I'm a C#-Python developer in Turkey</h3>
 
 - 📫 How to reach me **berke.yildiz41@hotmail.com**
