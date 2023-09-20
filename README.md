@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berke YILDIZ</h1>
-<h3 align="center">I'm a C#-Python developer in Turkey</h3>
+<h3 align="center">I'm a Junior Software Developer in Turkey</h3>
 
 - 📫 How to reach me **berke.yildiz41@hotmail.com**
 
